@@ -1,5 +1,4 @@
-# Code your prompts here!
-# Try starting out with puts'ing a string.
+
 guest_name = "OG"
 party_name = "Pretty Cool Beach Party"
 date = "July 17"
