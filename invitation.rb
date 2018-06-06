@@ -1,3 +1,10 @@
-# Code your prompts here!
+def invitation_party
+guest_name = "OG"
+party_name = "Pretty Cool Beach Party"
+date = "July 17"
+time = "3pm"
+host_name = "Your Best Friends, the Backyardigans"
+  puts "Dear #{guest_name}, you are cordially invited to #{party_name} on #{date} at #{time}. Sincerely, #{host_name}"
+end
 
-# Try starting out with puts'ing a string.
+invitation_party
